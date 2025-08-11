@@ -1,0 +1,5 @@
+flask==3.0.3
+pymilvus==2.4.4
+prestodb==0.7.0
+ibm-watsonx-ai==1.1.11
+python-dotenv==1.0.1

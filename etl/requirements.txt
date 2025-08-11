@@ -1,0 +1,6 @@
+pymilvus==2.4.4
+prestodb==0.7.0
+pandas==2.2.2
+tqdm==4.66.4
+ibm-watsonx-ai==1.1.11
+python-dotenv==1.0.1
